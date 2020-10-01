@@ -5,7 +5,7 @@
          url('../fonts/Fira/woff2/FiraSans-Light.woff2') format('woff2'),
          url('../fonts/Fira/woff/FiraSans-Light.woff') format('woff'),
          url('ttf/FiraSans-Light.ttf') format('truetype');
-    font-weight: 300;
+    font-weight: 200;
     font-style: normal;
 }
 
